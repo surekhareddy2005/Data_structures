@@ -179,7 +179,7 @@ int main()
 	int ch;
 	while(1)
 	{
-		printf("\nenter\n1.creation \n2.insert at head\n3.insert at tail\n4.insert at position\n5.display\n6. deletion at head\n7. deletion at position \n.8dlelte at end\n9.reverse\nany other to exist\n");
+		printf("\nenter\n1.creation \n2.insert at head\n3.insert at tail\n4.insert at position\n5.display\n6. deletion at head\n7. deletion at position \n8.dlelte at end\n9.reverse\nany other to exist\n");
 		scanf("%d",&ch);
 	  if (ch==1)
 	  {
